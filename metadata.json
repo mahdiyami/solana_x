@@ -1,5 +1,15 @@
 {
-  "name": "solanax",
+  "name": "Solanax",
   "symbol": "x",
-  "image": "https://raw.githubusercontent.com/mahdiyami/solana_x/master/solanax.png"
+  "description": "Best Token :)",
+  "image": "https://raw.githubusercontent.com/mahdiyami/solana_x/master/solanax.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mahdiyami/solana_x/master/solanax.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
