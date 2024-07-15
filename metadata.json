@@ -2,5 +2,5 @@
 name: "nice-token",
 symbol: "TEST",
 description: "Fully for testing purposes only",
-image: "https://token-creator-lac.vercel.app/token_image.png"
+image: "https://raw.githubusercontent.com/mahdiyami/solana_x/8ffe300c97bb7695b9d435c460a81f75d64e24ce/token_image.png"
 }
