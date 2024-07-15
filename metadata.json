@@ -1,15 +1,6 @@
 {
-  "name": "Solanax",
-  "symbol": "x",
-  "description": "Best Token :)",
-  "image": "https://raw.githubusercontent.com/mahdiyami/solana_x/master/solanax.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/mahdiyami/solana_x/master/solanax.png",
-        "type": "image/png"
-      }
-    ]
-  }
+name: "nice-token",
+symbol: "TEST",
+description: "Fully for testing purposes only",
+image: "https://token-creator-lac.vercel.app/token_image.png"
 }
